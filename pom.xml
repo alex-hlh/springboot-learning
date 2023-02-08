@@ -70,6 +70,12 @@
         <module>springboot-cache</module>
         <module>springboot-argument-resolver</module>
         <module>springboot-import-bean</module>
+        <module>springboot-localcache-redis-sync</module>
+        <module>springboot-db-check</module>
+        <module>springboot-datasource-hot-switchover</module>
+        <module>springboot-jar-merge</module>
+        <module>springboot-json-format</module>
+        <module>springboot-apt</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

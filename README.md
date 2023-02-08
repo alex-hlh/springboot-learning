@@ -12,6 +12,8 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [springboot实战之整合配置中心实现动态刷新（Apollo篇）](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247490283&idx=2&sn=1f38fc6872ff49adc5cb66e7d1d937a3&chksm=e9eef49dde997d8ba2b79734784d708cfeb35267fa534bd65cdf75cd0e853a88087b2c1076a6&token=158433357&lang=zh_CN#rd)
 
+[聊聊如何将数据同步到apollo配置中心](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247501960&amp;idx=1&amp;sn=abb620a546a82e27ccdf49d8b1255ff4&amp;chksm=e9ed26fede9aafe88c9815e7de3228334626fe2bbb620e959396ac260403babc6c4d4177f371&token=252819573&lang=zh_CN#rd)
+
 
 
 > 2、驱动篇
@@ -52,9 +54,9 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [springboot实战之mysql读写分离](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247487921&idx=1&sn=e3495542b67e131914b90d6c7e9157b5&chksm=e9eeffc7de9976d19989a01c74b449674b05735642b6046a114bf4ca9a368a30f2bc3f681d45&scene=21#wechat_redirect)
 
-
-
 [springboot实战之mysql分库分表](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247487971&idx=1&sn=c2a91ade482efe60fd4ccad15e66af46&chksm=e9eeff95de99768373731abdde0222de31ec1df4e4299de79d307407d3188f67590e6c889513&scene=21#wechat_redirect)
+
+[如何利用mysql5.7提供的虚拟列来提高查询效率](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247504278&amp;idx=1&amp;sn=2b7c65ff7126c93f5c24cde09767e662&amp;chksm=e9ed3fe0de9ab6f66c75f23caf5c88d05c1b8d14ea2e8c80ed2a3cfe8d43b3bc1850fa81fb6b&token=252819573&lang=zh_CN#rd)
 
 
 
@@ -108,6 +110,11 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [聊聊springboot项目如何实现自定义actuator端点](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247499256&amp;idx=1&amp;sn=3c9a376bd2863cd6485dfcc50666cfeb&amp;chksm=e9ed138ede9a9a98d4b214cf1017c0982760d47eb8ab4305b8a5d25e24da66e5db6a7e212d97&token=76335148&lang=zh_CN#rd)
 
+[聊聊如何通过自定义注解实现springmvc和sentinel整合](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247501167&amp;idx=1&amp;sn=80b9eaf7466a4b9c0443968e7f3131e1&amp;chksm=e9ed2b19de9aa20fe4313747d9e84edf04d624b4b3a88b15e455f19d0dfca8177d4c1d76c113&token=252819573&lang=zh_CN#rd)
+
+[聊聊如何利用p6spy进行sql监控](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247503572&amp;idx=1&amp;sn=0022b9834853c2f3111aab8f4b12b422&amp;chksm=e9ed20a2de9aa9b4055830b7b6cbc44b7060105cb803dfd1bc3e9e162255db1acb1fc332e0e4&token=252819573&lang=zh_CN#rd)
+
+
 
 
 > 10、部署篇
@@ -120,6 +127,10 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [聊聊如何将gitlab ci的环境变量透传给k8s deployment.yaml](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247497167&amp;idx=1&amp;sn=5b748b6e1ee16a6c251d6f3645e9fa55&amp;chksm=e9ed1bb9de9a92af23295c3c25f34ab3e4c8c702fe1e086f6e81143cb4c341e2703904ddf873&token=76335148&lang=zh_CN#rd)
 
+[聊聊如何验证线上的版本是符合预期的版本](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247503020&amp;idx=1&amp;sn=c27c188d00f7ad01d0d5bf47d995f2fc&amp;chksm=e9ed22dade9aabcc2c955ee6c73ca36f0509453ce1b8668a71192445bb4963a39f737787e88c&token=252819573&lang=zh_CN#rd)
+
+[聊聊基于docker部署的mysql如何进行数据恢复](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247503181&amp;idx=1&amp;sn=f05e6458d260c487fd564e3152763e29&amp;chksm=e9ed233bde9aaa2de31e70abef843a918679a7b2430deea5a26a562ac63f1f8dc36e4e44edb5&token=252819573&lang=zh_CN#rd)
+
 
 > 11、安全篇
 
@@ -128,6 +139,10 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 [聊聊springboot项目数据库密码如何加密](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247497834&amp;idx=1&amp;sn=204c4a4976f2fdaa1038996791a0e503&amp;chksm=e9ed161cde9a9f0a8f252d70034eac5c1978b60f96523d2898b23efe3a5716bf706f85472676&token=528131835&lang=zh_CN#rd)
 
 [聊聊如何自定义数据脱敏](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247501037&amp;idx=1&amp;sn=895457cdecebc63ee0ee3df00bd85928&amp;chksm=e9ed2a9bde9aa38d1a2f0c24bf8a89c37a46afc10921a45fb39d05910557fe965a3ce48f58c0&token=76335148&lang=zh_CN#rd)
+
+[聊聊如何进行代码混淆](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247501464&amp;idx=1&amp;sn=cebaefdfea75b3a585ef018e4b25b280&amp;chksm=e9ed28eede9aa1f81de294faa101516c9966cd547da913390ef813042b329ec27a04483dee25&token=252819573&lang=zh_CN#rd)
+
+[推荐一款代码依赖包安全漏洞检查插件](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247503095&amp;idx=1&amp;sn=4bf35f9cb13e8b054822d2d018a75326&amp;chksm=e9ed2281de9aab97ee50432d77ab85622f1f57261808fdad0f81738b99431aecd8228ecf218e&token=252819573&lang=zh_CN#rd)
 
 
 > 12、微服务篇
@@ -145,6 +160,11 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 [springcloud中feign的@FeignClient应该写在哪里？](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247493826&amp;idx=1&amp;sn=633d6500b5d4db9f4eb62538da29a779&amp;chksm=e9ed06b4de9a8fa2cbb71d8d8e796b3a1c89f8892188e6e65e465b2004c753c72056756c3e3b&token=76335148&lang=zh_CN#rd)
 
 [springcloud本地开发的微服务如何调用远程k8s的微服务](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247493044&amp;idx=1&amp;sn=0fbf07347e52c15a204387112a23a790&amp;chksm=e9ed0bc2de9a82d462262f480d3c9798f37ac8adb76b5eb7929d51f5a8e90802803f9c1e3b41&token=76335148&lang=zh_CN#rd)
+
+[记一次使用nacos2踩到的坑](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247505367&amp;idx=1&amp;sn=09108bf846131e954a225035f6c11c50&amp;chksm=e9ed3ba1de9ab2b7a96829947f9a4cb64d7270ef10cb96ce09c320ee2d737cc9703cd7b9f91d&token=252819573&lang=zh_CN#rd)
+
+[聊聊使用@RefreshScope与nacos2整合踩到的坑](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247505538&amp;idx=1&amp;sn=85562f5a8761b8f40a1d39cec0c53c4c&amp;chksm=e9ed38f4de9ab1e2b66bf1cd52ecec2a29a07e1afc15cd3edd5243ef003deee1fe614d2b9276&token=252819573&lang=zh_CN#rd)
+
 
 > 13、自定义SPI篇
 
@@ -174,6 +194,7 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [聊聊springboot项目引用第三平台私有jar踩到的坑](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247497494&amp;idx=1&amp;sn=6f34dd38472522a9ebb12c89161da3f0&amp;chksm=e9ed1960de9a9076ea467beb5e1bbc4b1a3fe8b0fc908d71b5dccdbefb7c06ae59a5096ede2e&token=76335148&lang=zh_CN#rd)
 
+[聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247501779&amp;idx=1&amp;sn=de7e413751134fd0ffb20d4cca260452&amp;chksm=e9ed29a5de9aa0b31e4bd7babac31917563a512dcf59cb32d5efc1be841a562592dc03131494&token=252819573&lang=zh_CN#rd)
 
 
 > 15、学习成长篇
@@ -182,13 +203,31 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [聊聊读源码这件事](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247500892&amp;idx=1&amp;sn=e2c54ba7d997dac1ce8b314fea2b4950&amp;chksm=e9ed2a2ade9aa33c230a58583faf13f490fed75af250fd3b0c7640b3b03ee10ed65928470ee9&token=76335148&lang=zh_CN#rd)
 
-> 16、其他
+> 16、业务项目扩展篇
+
+[聊聊如何让你的业务代码具有可扩展性](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247502141&amp;idx=1&amp;sn=c74d996e64d89aa62d53dad8f37d656f&amp;chksm=e9ed274bde9aae5d29560c0ba69eaf25af1b0d9d7b3816566b158edcfb99ab9a9b51bef4ca19&token=252819573&lang=zh_CN#rd)
+
+[聊聊如何利用管道模式来进行业务编排（上篇）](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247505512&amp;idx=1&amp;sn=6bb77771355849dfce16536905f9c835&amp;chksm=e9ed381ede9ab108cce1fd48eebd9754b1bf7639d027654183bae410fd40c5819010b7b95099&token=252819573&lang=zh_CN#rd)
+
+[聊聊如何利用管道模式来进行业务编排（下篇）](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247505624&amp;idx=1&amp;sn=9bc530dd4e6cce03a092ed18029915d4&amp;chksm=e9ed38aede9ab1b86e9f8c9314c6eece0458b4b986413370cef196e1e7bcf142c5e3cfbb3d40&token=252819573&lang=zh_CN#rd)
+
+> 17、消息队列
+
+[springboot结合kakfa演示消息队列的消费幂等性如何保证](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247492142&idx=1&sn=67a708e07d2efbe3e7d3524b7156a825&chksm=e9ed0c58de9a854e109a15be1a271af4d27f532873f65c7fb8ed147900c58b8f37afaf8f5d20&token=912953533&lang=zh_CN#rd)
+
+[spring kafka之如何批量给topic加前缀](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247493922&amp;idx=1&amp;sn=986975dc4b659ca5acad7d924c5c01d3&amp;chksm=e9ed0754de9a8e42d20a52f71bf3c6273269add514c7a464015b15352efd74ca92e567c1b68d&token=76335148&lang=zh_CN#rd)
+
+[聊聊如何实现一个带幂等模板的kafka消费者监听](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247503134&amp;idx=1&amp;sn=00d206708a15f048303f814e01b2ccec&amp;chksm=e9ed2368de9aaa7e9e585e29964b61c80a80075b8bc5427e94191ca8bec7cf99bd5418ac0137&token=252819573&lang=zh_CN#rd)
+
+[聊聊在springboot项目中如何配置多个kafka消费者](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247504312&amp;idx=1&amp;sn=9ebfc032ce56c45b05a2b12b3473c653&amp;chksm=e9ed3fcede9ab6d837644a2ccea2a088d274b39431e557064c59f3d38803238c8cb4dca5cfcf&token=252819573&lang=zh_CN#rd)
+
+
+> 18、其他
 
 [springboot实战之创建一个支持平滑关闭的非web项目](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247488372&idx=1&sn=d7fe2036b634bffcd2becf1577db6f5f&chksm=e9eefd02de997414d85518000c43523d031243a3b6a3fe231f1a601574a38feaef84f9cfd91e&scene=21#wechat_redirect)
 
 [如何用一行代码实现excel导入导出](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247488501&idx=1&sn=e95a85ece7e4bd8e501912ddaf98b5c6&chksm=e9eefd83de9974956ddb7253fba232c377f69c16b342a0beeb885ee20135067b6aea648e1108&scene=21#wechat_redirect)
 
-[springboot结合kakfa演示消息队列的消费幂等性如何保证](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247492142&idx=1&sn=67a708e07d2efbe3e7d3524b7156a825&chksm=e9ed0c58de9a854e109a15be1a271af4d27f532873f65c7fb8ed147900c58b8f37afaf8f5d20&token=912953533&lang=zh_CN#rd)
 
 [springboot之优雅处理返回值](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&mid=2247492409&idx=1&sn=e18d0511d71cec0a122d8ea950a81243&chksm=e9ed0d4fde9a8459183519ce711c71dce719d2382b8b9e33bd8adeadc0d6c1bee067b692a02a&token=2137971283&lang=zh_CN#rd)
 
@@ -212,4 +251,29 @@ springboot实战系列暂时先更新到这边，下边是对之前springboot实
 
 [聊聊spring bean名称命名的那些事儿](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247497632&amp;idx=1&amp;sn=ca158341356e96aaabeabf533360c4e9&amp;chksm=e9ed19d6de9a90c04d27c96193c5e1c1d5d3816c28bab9676c621e8eff86d84020529095dd89&token=76335148&lang=zh_CN#rd)
 
-[spring kafka之如何批量给topic加前缀](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247493922&amp;idx=1&amp;sn=986975dc4b659ca5acad7d924c5c01d3&amp;chksm=e9ed0754de9a8e42d20a52f71bf3c6273269add514c7a464015b15352efd74ca92e567c1b68d&token=76335148&lang=zh_CN#rd)
+[聊聊springboot项目全局异常处理那些事儿](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247501386&amp;idx=1&amp;sn=42cdc14c7e738748b38e405a11d67e8b&amp;chksm=e9ed283cde9aa12ad852fbf9583895297a916e1c0f82b733dd4659cca3e3083434ef8fd4a5a5&token=252819573&lang=zh_CN#rd)
+
+[spring事务失效的几种场景以及原因](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247502065&amp;idx=1&amp;sn=cd29fff4eca78338ec1a58aef9ae073d&amp;chksm=e9ed2687de9aaf9176b666cd6224b85f5ac87b5dbc11fd5cd534543944018a37643d09149695&token=252819573&lang=zh_CN#rd)
+
+[聊聊如何让springboot拦截器的执行顺序按我们想要的顺序执行](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247502141&amp;idx=1&amp;sn=c74d996e64d89aa62d53dad8f37d656f&amp;chksm=e9ed274bde9aae5d29560c0ba69eaf25af1b0d9d7b3816566b158edcfb99ab9a9b51bef4ca19&token=252819573&lang=zh_CN#rd)
+
+[spring动态注册bean会使AOP失效？](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247502442&amp;idx=1&amp;sn=33b6ebb3102c467086674a1003379158&amp;chksm=e9ed241cde9aad0aa09c8fc49364bd61cce5fc317d45bc0d8037754a1bd40babcbd5170ef6bf&token=252819573&lang=zh_CN#rd)
+
+[聊聊缓存布尔值踩到的坑](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247502503&amp;idx=1&amp;sn=2e8f6af96895360dbcfbdd35e1fa2bd5&amp;chksm=e9ed24d1de9aadc79fa10e3b41c762087a20d3519be6525e499c69416cb14ee2a12c180b0499&token=252819573&lang=zh_CN#rd)
+
+[记一次判断值是否存在遇到的神奇问题](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247502865&amp;idx=1&amp;sn=cb4dace7617d7736e221031055bb4f41&amp;chksm=e9ed2267de9aab71db7cd1facf386f08e3aaee89278a90f99fdb4e400967706cc87be5f190d4&token=252819573&lang=zh_CN#rd)
+
+[两组数据量相对大时，如何高效进行比对](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247503396&amp;idx=1&amp;sn=a364cc202b065c03c2e6238e2609dc9b&amp;chksm=e9ed2052de9aa9443fad9cdbe73dac936517c941d5a0bb84f87a1b57ac338ee689852c885171&token=252819573&lang=zh_CN#rd)
+
+[记一次因@Async引发的程序bug](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247504298&amp;idx=1&amp;sn=9ddd71be4750221fc54a39e58aff7c72&amp;chksm=e9ed3fdcde9ab6ca4bd565883597f8d2d2c60638156834ed2e61b307ad669df7a737415f91b6&token=252819573&lang=zh_CN#rd)
+
+[记一次springboot项目结合arthas排查ClassNotFoundException问题](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247504622&amp;idx=1&amp;sn=194aa2b16c9be5c2f2438d8da6aa986f&amp;chksm=e9ed3c98de9ab58eb6245fafe95c8f3bace12e3d85a21d0dccaa8e7676fa73ba59c21af5519b&token=252819573&lang=zh_CN#rd)
+
+[记一次使用spring javaconfig踩到的坑](https://mp.weixin.qq.com/s?__biz=MzI1MTY1Njk4NQ==&amp;mid=2247505806&amp;idx=1&amp;sn=2285edf1e1f1e3704fd22a010d356754&amp;chksm=e9ed39f8de9ab0eee2bd7168bfe15eab6a2d5754d5063bd2594d27227107f46bd7697255e9fd&token=252819573&lang=zh_CN#rd)
+
+
+
+
+
+
+
